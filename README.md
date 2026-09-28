@@ -99,9 +99,9 @@ PySpark
 
 1. Clone the repository
 ```
-https://github.com/GeraldM-007/Crypto-Market-Data-Engineering-Project.git
+git clone https://github.com/GeraldM-007/Spark_E-commerce_Pipeline/tree/main
 
-cd Crypto-Market-Data-Engineering-Project
+cd Spark_E-commerce_Pipeline
 ```
 2. Install dependencies:
 ```
