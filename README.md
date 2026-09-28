@@ -1,4 +1,3 @@
-# E-Commerce ETL Pipeline with PySpark
 ## Overview
 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline using Apache Spark (PySpark) to process e-commerce transactional data. The pipeline performs data ingestion, data quality checks, transformations, analytics, return analysis, and writes curated datasets to Parquet format for downstream reporting and analytics.
