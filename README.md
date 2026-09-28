@@ -99,7 +99,7 @@ PySpark
 
 1. Clone the repository
 ```
-git clone https://github.com/GeraldM-007/Spark_E-commerce_Pipeline/tree/main
+git clone https://github.com/GeraldM-007/Spark_E-commerce_Pipeline.git
 
 cd Spark_E-commerce_Pipeline
 ```
